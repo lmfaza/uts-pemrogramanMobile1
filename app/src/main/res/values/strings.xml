@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Seminar Registration App</string>
+
+    <!-- Login -->
+    <string name="login_title">Selamat Datang</string>
+    <string name="login_subtitle">Masuk ke akun Anda</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Masuk</string>
+    <string name="txt_no_account">Belum punya akun? </string>
+    <string name="txt_register_link">Daftar</string>
+
+    <!-- Register -->
+    <string name="register_title">Buat Akun Baru</string>
+    <string name="hint_full_name">Nama Lengkap</string>
+    <string name="hint_confirm_password">Konfirmasi Password</string>
+    <string name="btn_register">Daftar</string>
+    <string name="txt_have_account">Sudah punya akun? </string>
+    <string name="txt_login_link">Masuk</string>
+
+    <!-- Home -->
+    <string name="home_title">Seminar Registration App</string>
+    <string name="btn_daftar_seminar">Daftar Seminar</string>
+    <string name="btn_logout">Keluar</string>
+
+    <!-- Registration Form -->
+    <string name="form_title">Form Pendaftaran</string>
+    <string name="hint_nama">Nama Lengkap</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Nomor HP</string>
+    <string name="label_gender">Jenis Kelamin</string>
+    <string name="label_male">Laki-laki</string>
+    <string name="label_female">Perempuan</string>
+    <string name="label_seminar">Pilihan Seminar</string>
+    <string name="label_checkbox">Saya menyetujui data yang diinput benar</string>
+    <string name="btn_submit">Kirim Pendaftaran</string>
+
+    <!-- Dialog -->
+    <string name="dialog_title">Konfirmasi Data</string>
+    <string name="dialog_message">Apakah data yang Anda isi sudah benar?</string>
+    <string name="dialog_yes">Ya, Lanjutkan</string>
+    <string name="dialog_no">Tidak, Kembali</string>
+
+    <!-- Result -->
+    <string name="result_title">Pendaftaran Berhasil!</string>
+    <string name="btn_back_home">Kembali ke Beranda</string>
+
+    <!-- Seminar list -->
+    <string-array name="seminar_list">
+        <item>-- Pilih Seminar --</item>
+        <item>Seminar Kecerdasan Buatan (AI)</item>
+        <item>Seminar Keamanan Siber</item>
+        <item>Seminar Pengembangan Mobile</item>
+        <item>Seminar Cloud Computing</item>
+        <item>Seminar Data Science &amp; Big Data</item>
+        <item>Seminar Internet of Things (IoT)</item>
+        <item>Seminar Web Development Modern</item>
+    </string-array>
+</resources>
