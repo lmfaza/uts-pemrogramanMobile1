@@ -1,4 +1,4 @@
-# Seminar Registration App - UTS Pemrograman Mobile 1
+# Seminar Registration App - UTS Pemrograman Mobile 1 Lukman Muhammad Faza
 
 Aplikasi Pendaftaran Seminar Mahasiswa berbasis Android yang dibangun menggunakan **Jetpack Compose** dan **Material Design 3**. Aplikasi ini dirancang dengan antarmuka modern menggunakan tema *Glassmorphism* dan gradasi warna biru yang konsisten.
 
@@ -28,9 +28,9 @@ Aplikasi Pendaftaran Seminar Mahasiswa berbasis Android yang dibangun menggunaka
 
 
 ## 📂 Struktur Proyek
-- `MainActivity.kt`: Pusat kontrol navigasi aplikasi.
-- `model/`: Data class untuk menampung informasi pendaftaran.
-- `screens/`: Folder berisi semua halaman UI (Login, Register, Home, Form, Result, Profile).
+- `HomeActivity.java`: Awal aplikasi.
+- `ResultActivity.java`: Data class untuk menampung informasi pendaftaran.
+- `layout/`: Folder berisi semua halaman UI (Login, Register, Home, Form, Result).
 - `ui/theme/`: Konfigurasi tema, warna, tipografi, dan background gradasi.
 
 ## ⚙️ Cara Menjalankan
